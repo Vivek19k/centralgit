@@ -3,3 +3,12 @@ This is code written for the first time and from a linux server mumbai
 There is development a springboot application is going on
 using Spring STS as a code editorI am a dev from singapore would you like to elabrote on the apllication
 Lets work together
+This is code for form lables
+<div class="form-floating mb-3">
+  <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+  <label for="floatingInput">Email address</label>
+</div>
+<div class="form-floating">
+  <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
+  <label for="floatingPassword">Password</label>
+</div>
